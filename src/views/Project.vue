@@ -7,7 +7,7 @@ const query = ref([])
 
 const getData = () => {
   axios
-    .get('/public/Data/porto.json')
+    .get('/data/porto.json')
     .then((res) => {
       query.value = res.data
     })
