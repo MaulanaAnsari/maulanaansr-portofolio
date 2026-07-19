@@ -1,0 +1,50 @@
+<script setup>
+const props = defineProps({
+  smallDescription: String,
+  description: String,
+  github: String,
+  linkedin: String,
+  instagram: String,
+})
+</script>
+
+<template>
+  <div class="p-5">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="fw-bold mb-4">About Me</h1>
+          <div class="d-flex justify-content-center" style="width: 100%">
+            <p style="max-width: 30rem; font-size: 20px">
+              {{ props.smallDescription }}
+            </p>
+          </div>
+          <p style="max-width: 40rem" class="mx-auto mb-5">
+            {{ props.description }}
+          </p>
+          <section id="contact">
+            <h1 class="fw-bold">Let's Connect</h1>
+            <div class="d-flex align-items-center justify-content-center gap-2">
+              <a :href="'https://linkedin.com/in/' + props.linkedin">
+                <img style="width: 30px; height: 100px" src="../assets/linkedin.svg" alt="" />
+              </a>
+              <a :href="'https://github.com/' + props.github">
+                <img style="width: 30px; height: 100px" src="../assets/github.svg" alt="" />
+              </a>
+              <a :href="'https://instagram.com/' + props.instagram">
+                <img style="width: 40px; height: 100px" src="../assets/instagram.svg" alt="" />
+              </a>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<style scoped>
+.p-5 {
+  background-color: #2563eb;
+  color: white;
+}
+</style>
