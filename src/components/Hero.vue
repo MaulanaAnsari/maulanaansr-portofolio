@@ -8,7 +8,8 @@
             Maulana Ansari
           </h3>
           <h6>FrontEnd Web Developer | Data Analyst</h6>
-          <input type="button" value="My Resume" class="bt1 mt-5" />
+          <a href="/doc/CV_ATS_MAULANA ANSARI.pdf" download class="btn py-3 px-4">My Resume</a>
+          <!-- <input type="button" value="My Resume" class="bt1 mt-5" /> -->
           <!-- <a href="#contact" class="bt2 mt-5">Contact</a> -->
           <input
             type="button"
@@ -42,7 +43,7 @@
   text-transform: uppercase;
 }
 
-.main .bt1 {
+.main .btn {
   height: 55px;
   width: 138px;
   background-color: #2563eb;

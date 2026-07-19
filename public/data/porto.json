@@ -11,7 +11,7 @@
     "id": "2",
     "title": "Ecommerce Catalog",
     "image": "/images/catalog.png",
-    "description": "Website ini merupakan hasil akhir dari program project-based internship di Core Initiative.",
+    "description": "Website ini merupakan hasil akhir dari program project-based internship di Core Initiative sebagai Front End Developer. Pada program ini saya mempelajari cara membangun antarmuka website dengan Vue 3, CI/CD serta melakukan deployment dengan vercel.",
     "link_demo": "https://ecommerce-catalog7104.vercel.app",
     "link_github": "https://github.com/MaulanaAnsari/ecommerce-catalog"
   },

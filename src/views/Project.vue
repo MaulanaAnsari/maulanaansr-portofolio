@@ -49,7 +49,7 @@ onMounted(() => {
             <p>
               {{ data.description }}
             </p>
-            <a :href="data.link_demo" class="btn btn-sm">Visit demo</a>
+            <a :href="data.link_demo" class="btn btn-sm">Visit Demo</a>
             <a :href="data.link_github" class="ms-1 btn btn-sm">Source Code</a>
           </div>
         </div>
@@ -79,7 +79,7 @@ onMounted(() => {
 }
 
 .ms-1 {
-  background-color: transparent;
+  background-color: white;
   color: #2563eb;
   border: 2px solid #2563eb;
 }

@@ -14,7 +14,8 @@ const props = defineProps({
 ul li {
   font-size: 15px;
   padding: 5px 20px;
-  background-color: white;
+  background-color: whitesmoke;
+  color: black;
   list-style: none;
   border: 50px;
   font-weight: bold;
