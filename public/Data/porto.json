@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Portal Ego",
-    "image": "/public/images/portalego.png",
+    "image": "/images/portalego.png",
     "description": "Portal EGO adalah sebuah website portal yang berfungsi sebagai pusat akses berbagai tautan penting dalam satu halaman. Website ini dikembangkan menggunakan Vue 3, Vite, dan Bootstrap dengan desain yang responsif, sehingga dapat diakses dengan nyaman melalui desktop maupun perangkat mobile.",
     "link_demo": "https://portalego.vercel.app",
     "link_github": "https://github.com/MaulanaAnsari/portal-ego"
@@ -10,7 +10,7 @@
   {
     "id": "2",
     "title": "Ecommerce Catalog",
-    "image": "/public/images/catalog.png",
+    "image": "/images/catalog.png",
     "description": "Website ini merupakan hasil akhir dari program project-based internship di Core Initiative.",
     "link_demo": "https://ecommerce-catalog7104.vercel.app",
     "link_github": "https://github.com/MaulanaAnsari/ecommerce-catalog"
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "title": "MAUList",
-    "image": "/public/images/maulist.png",
+    "image": "/images/maulist.png",
     "description": "Merupakan aplikasi todolist sederhana untuk memudahkan dalam manajemen tugas. Fitur dalam aplikasi ini meliputi login, logout, insert dan delete. Aplikasi ini merupakan hasil belajar saya menggunakan framework laravel.",
     "link_demo": "",
     "link_github": "https://github.com/MaulanaAnsari/MAUList"
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "title": "Web Profil Kota Bandung",
-    "image": "/public/images/bandung.png",
+    "image": "/images/bandung.png",
     "description": "Website ini merupakan hasil belajar saya dalam pemrograman web dasar menggunakan HTML5 & CSS3. Website ini merupakan web profil sederhana.",
     "link_demo": "https://web-profile-kotabandung.vercel.app",
     "link_github": "https://github.com/MaulanaAnsari/Web-profile-kotabandung"
