@@ -5,15 +5,27 @@ import axios from 'axios'
 
 const query = ref([])
 
-const getData = () => {
-  axios
-    .get('/data/porto.json')
-    .then((res) => {
-      query.value = res.data
-    })
-    .catch((err) => {
-      console.log(err)
-    })
+const getData = async () => {
+  try {
+    console.log('Fetching json...')
+
+    const res = await axios.get('/data/porto.json')
+
+    console.log('Status:', res.status)
+    console.log('Data:', res.data)
+
+    query.value = res.data
+  } catch (err) {
+    console.error('Axios Error:', err)
+  }
+  // axios
+  //   .get('/data/porto.json')
+  //   .then((res) => {
+  //     query.value = res.data
+  //   })
+  //   .catch((err) => {
+  //     console.log(err)
+  //   })
 }
 
 onMounted(() => {
