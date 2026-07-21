@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "title": "Portal Ego",
+    "title": "Portal EGO",
     "image": "/images/portalego.png",
     "description": "Portal EGO adalah sebuah website portal yang berfungsi sebagai pusat akses berbagai tautan penting dalam satu halaman. Website ini dikembangkan menggunakan Vue 3, Vite, dan Bootstrap dengan desain yang responsif, sehingga dapat diakses dengan nyaman melalui desktop maupun perangkat mobile.",
-    "link_demo": "https://portalego.vercel.app",
+    "link_demo": "https://portalego.netlify.app",
     "link_github": "https://github.com/MaulanaAnsari/portal-ego"
   },
   {

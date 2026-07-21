@@ -1,38 +1,41 @@
 # maulanaansr-portofolio
 
-This template should help get you started developing with Vue 3 in Vite.
+My personal portfolio website built to showcase my projects, skills, and experiences as Frontend Web Developer and Data Analyst.
 
-## Recommended IDE Setup
+## Features
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Responsive design
+- Modern & clean UI
+- Downloadable resume
+- Project showcase with live demo and source code
+- Mobile-friendly interface
 
-## Recommended Browser Setup
+## Tech Stack
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- Vue 3
+- Vite
+- Bootstrap 5
+- Axios
 
-## Customize configuration
+## Live Demo
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+https://maulanaansr-portofolio.vercel.app
 
-## Project Setup
+## Preview
 
-```sh
+![Home Page](./Screenshot/home1.png)
+![Home Page](./Screenshot/home2.png)
+
+## Installation
+
+```bash
+git clone https://github.com/maulanaansari/maulanaansr-portofolio
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Contact
 
-```sh
-npm run build
-```
+- Email: maulana7104@gmail.com
+- LinkedIn: https://www.linkedin.com/in/maulana-ansari
+- Github: https://github.com/maulanaansari

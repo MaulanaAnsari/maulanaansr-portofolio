@@ -24,7 +24,7 @@ const skill = ref([
 const experience = ref([
   {
     year: 'November 2025',
-    job: 'FrontEnd Web Developer',
+    job: 'Frontend Web Developer',
     location: 'Kota Depok, Jawa Barat',
     description:
       'Project-Based Virtual Intern sebagai Frontend Developer di Core Initiative  diselenggarakan oleh Rakamin Academy x Core Initiative. Program ini dilaksanakan secara remote/WFH mulai 6 Oktober hingga 4 November 2025. ',
