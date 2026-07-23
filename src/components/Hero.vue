@@ -1,3 +1,9 @@
+<script setup>
+const props = defineProps({
+  image: String,
+})
+</script>
+
 <template>
   <section class="main py-5">
     <div class="container py-5">
@@ -9,14 +15,15 @@
           </h3>
           <h6>FrontEnd Web Developer | Data Analyst</h6>
           <a href="/doc/CV_ATS_MAULANA ANSARI.pdf" download class="btn py-3 px-4">My Resume</a>
-          <!-- <input type="button" value="My Resume" class="bt1 mt-5" /> -->
-          <!-- <a href="#contact" class="bt2 mt-5">Contact</a> -->
           <input
             type="button"
             value="Contact Me"
             class="bt2 mt-5"
             onclick="location.href = '#contact'"
           />
+        </div>
+        <div class="col-md-6">
+          <img :src="props.image" alt="" class="img-fluid rounded-5" />
         </div>
       </div>
     </div>
@@ -29,7 +36,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
-  height: 95vh;
+  min-height: 100vh;
 }
 
 .main h3 {

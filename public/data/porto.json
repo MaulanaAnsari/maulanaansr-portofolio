@@ -19,7 +19,7 @@
     "id": "3",
     "title": "Web Profil Kota Bandung",
     "image": "/images/bandung.png",
-    "description": "Website ini merupakan hasil belajar saya dalam pemrograman web dasar menggunakan HTML5 & CSS3. Website ini merupakan web profil sederhana.",
+    "description": "Website ini merupakan web profil sederhana. Website ini merupakan hasil belajar saya dalam pemrograman web dasar menggunakan HTML5 & CSS3.",
     "link_demo": "https://web-profile-kotabandung.vercel.app",
     "link_github": "https://github.com/MaulanaAnsari/Web-profile-kotabandung"
   },
@@ -27,7 +27,7 @@
     "id": "4",
     "title": "Dicoding Landing Page",
     "image": "/images/dicoding.png",
-    "description": "Website ini merupakan hasil belajar saya dalam pemrograman web dasar menggunakan HTML5 & CSS3. Website ini merupakan landing page dari dicoding indonesia.",
+    "description": "Website ini merupakan hasil remake dari landing page dicoding indonesia. Website ini merupakan hasil belajar saya dalam pemrograman web dasar menggunakan HTML5 & CSS3. ",
     "link_demo": "https://dicoding-landing-page-pied.vercel.app/",
     "link_github": "https://github.com/MaulanaAnsari/dicoding-landing-page"
   },
