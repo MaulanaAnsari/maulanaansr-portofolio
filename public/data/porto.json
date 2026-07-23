@@ -17,18 +17,26 @@
   },
   {
     "id": "3",
-    "title": "MAUList",
-    "image": "/images/maulist.png",
-    "description": "Merupakan aplikasi todolist sederhana untuk memudahkan dalam manajemen tugas. Fitur dalam aplikasi ini meliputi login, logout, insert dan delete. Aplikasi ini merupakan hasil belajar saya menggunakan framework laravel.",
-    "link_demo": "",
-    "link_github": "https://github.com/MaulanaAnsari/MAUList"
-  },
-  {
-    "id": "4",
     "title": "Web Profil Kota Bandung",
     "image": "/images/bandung.png",
     "description": "Website ini merupakan hasil belajar saya dalam pemrograman web dasar menggunakan HTML5 & CSS3. Website ini merupakan web profil sederhana.",
     "link_demo": "https://web-profile-kotabandung.vercel.app",
     "link_github": "https://github.com/MaulanaAnsari/Web-profile-kotabandung"
+  },
+  {
+    "id": "4",
+    "title": "Dicoding Landing Page",
+    "image": "/images/dicoding.png",
+    "description": "Website ini merupakan hasil belajar saya dalam pemrograman web dasar menggunakan HTML5 & CSS3. Website ini merupakan landing page dari dicoding indonesia.",
+    "link_demo": "https://dicoding-landing-page-pied.vercel.app/",
+    "link_github": "https://github.com/MaulanaAnsari/dicoding-landing-page"
+  },
+  {
+    "id": "5",
+    "title": "MAUList",
+    "image": "/images/maulist.png",
+    "description": "Merupakan aplikasi todolist sederhana untuk memudahkan dalam manajemen tugas. Fitur dalam aplikasi ini meliputi login, logout, insert dan delete. Aplikasi ini merupakan hasil belajar saya menggunakan framework laravel.",
+    "link_demo": "",
+    "link_github": "https://github.com/MaulanaAnsari/MAUList"
   }
 ]
