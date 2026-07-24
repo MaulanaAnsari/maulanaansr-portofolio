@@ -23,8 +23,9 @@ https://maulanaansr-portofolio.vercel.app
 
 ## Preview
 
-<img width="1344" height="766" alt="image" src="https://github.com/user-attachments/assets/1b81b0a7-d696-4696-bb90-80cde8163467" />
+
 <img width="1346" height="768" alt="image" src="https://github.com/user-attachments/assets/c56ab8b4-9468-440a-a9f7-dbe1654f972a" />
+<img width="1344" height="766" alt="image" src="https://github.com/user-attachments/assets/1b81b0a7-d696-4696-bb90-80cde8163467" />
 
 ## Installation
 
