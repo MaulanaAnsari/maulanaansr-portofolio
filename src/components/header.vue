@@ -4,7 +4,7 @@ import { RouterLink } from 'vue-router'
 <template>
   <nav class="navbar navbar-expand-lg text-uppercase">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="#">Maulana Ansari</a>
+      <a class="navbar-brand fw-bold" href="#">My Portfolio</a>
       <button
         class="navbar-toggler"
         type="button"
