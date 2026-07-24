@@ -27,7 +27,7 @@ const experience = ref([
     job: 'Frontend Web Developer',
     location: 'Kota Depok, Jawa Barat',
     description:
-      'Project-Based Virtual Intern sebagai Frontend Developer di Core Initiative  diselenggarakan oleh Rakamin Academy x Core Initiative. Program ini dilaksanakan secara remote/WFH mulai 6 Oktober hingga 4 November 2025. ',
+      'Program Project-Based Virtual Intern sebagai Frontend Developer di Core Initiative dilaksanakan secara remote/WFH mulai 6 Oktober hingga 4 November 2025. Program ini diselenggarakan oleh Rakamin Academy x Core Initiative. Dalam program ini saya membantu mengembangkan antarmuka website ecommerce-catalog dengan menggunakan Vue dan Javascript.',
     link: 'https://ecommerce-catalog7104.vercel.app',
   },
   {
