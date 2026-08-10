@@ -12,14 +12,12 @@ const skill = ref([
   'Vue',
   'React',
   'SQL',
+  'MySQL',
   'PHP',
   'Laravel',
   'Python',
   'Tableau',
-  'PowerBI',
-  'Spreadsheets',
-  'Excel',
-  'Word',
+  'Microsoft Office',
 ])
 
 const experience = ref([
