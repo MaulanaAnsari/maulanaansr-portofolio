@@ -16,6 +16,7 @@ const skill = ref([
   'PHP',
   'Laravel',
   'Python',
+  'Git',
   'Tableau',
   'Microsoft Office',
 ])
