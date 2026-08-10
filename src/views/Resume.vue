@@ -10,6 +10,7 @@ const skill = ref([
   'CSS',
   'JavaScript',
   'Vue',
+  'React',
   'SQL',
   'PHP',
   'Laravel',
@@ -37,6 +38,14 @@ const experience = ref([
     description:
       'Melaksanakan Kerja Praktik di Dinas Pemberdayaan Perempuan, Perlindungan Anak, Pemberdayaan Masyarakat, Pengendalian Penduduk dan Keluarga Berencana (DP3APMP2KB) Kota Banjarbaru. Disana saya mendapat tanggung jawab dalam melakukan pengolahan/analisis data kekerasan terhadap perempuan dan anak meliputi data entry, data preprocessing, membuat dashboard visualisasi data dan membantu pekerjaan administratif lainnya.',
     link: 'https://public.tableau.com/app/profile/maulana.ansari/viz/DashboardKASUSNew/DashboardFiNAL',
+  },
+  {
+    year: 'Oktober - Desember 2023',
+    job: 'Digital Marketing',
+    location: 'Kota Banjarbaru, Kalimantan Selatan',
+    description:
+      'Dalam program magang MBKM ini saya berkolaborasi dengan tiga UMKM  di Kalimantan Selatan untuk membantu membuat landing page katalog produk mereka.',
+    link: 'https://drive.google.com/file/d/1lzvyTJEHcRDc3Aj3JPvQy4YUAiwOdDYw/view?usp=drivesdk',
   },
 ])
 
